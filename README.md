@@ -1,4 +1,4 @@
 # MY-first-repository
 This is my first Git Repository
 <br>
-Author - Khushi Singh
+Author - Khushi
